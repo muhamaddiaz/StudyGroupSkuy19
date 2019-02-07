@@ -7,7 +7,7 @@ Ini adalah tugas berhadiah, siapa cepat dia dapat hohoho
 > - mengerti dasar dasar git
 
 jadi tugasnya gini temen-temen:  
-**Coba buat rangkuman tentang git dengan ketentuan berikut:**
+**Coba buat rangkuman tentang materi SG nanti dengan ketentuan berikut:**
 
 - Buat rangkuman tentang git
 - Buat rangkuman tentang html, css & js
